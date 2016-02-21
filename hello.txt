@@ -1,1 +1,1 @@
-new zGame
+fix bugs new zGame
